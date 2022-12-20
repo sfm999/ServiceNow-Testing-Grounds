@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4be4caba4733111003778a5f746d43ce" label="Pair" max_length="40" name="x_948221_testing_0_pair" type="collection">
+        <element label="Article ID" max_length="40" name="article_id" type="string"/>
+        <element display="true" label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Text" max_length="255" name="text" type="string"/>
+    </element>
+</database>

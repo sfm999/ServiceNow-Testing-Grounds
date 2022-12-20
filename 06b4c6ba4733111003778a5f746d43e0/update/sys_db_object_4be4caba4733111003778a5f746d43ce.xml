@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Pair</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_948221_testing_0_pair</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 00:33:43</sys_created_on>
+        <sys_id>4be4caba4733111003778a5f746d43ce</sys_id>
+        <sys_name>Testing 0 Pair</sys_name>
+        <sys_package display_value="Testing Grounds" source="x_948221_testing_0">06b4c6ba4733111003778a5f746d43e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Grounds">06b4c6ba4733111003778a5f746d43e0</sys_scope>
+        <sys_update_name>sys_db_object_4be4caba4733111003778a5f746d43ce</sys_update_name>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
